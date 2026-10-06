@@ -1,0 +1,26 @@
+{
+  "author": {
+    "name": "Ankit Kumar"
+  },
+  "description": "Detailed PCP-only advisor for clause-based PR-to-PO guidance and next steps.",
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Productivity",
+    "composerIcon": "./assets/gpt-icon.png",
+    "defaultPrompt": [
+      "What does the PCP say I should do after a PR is approved?",
+      "Which PCP clause applies to this sourcing scenario?",
+      "What approvals or documents are required before PO creation?"
+    ],
+    "developerName": "Ankit Kumar",
+    "displayName": "PCP Buyer Guide",
+    "logo": "./assets/gpt-icon.png",
+    "longDescription": "Detailed PCP-only advisor for clause-based PR-to-PO guidance and next steps.",
+    "shortDescription": "Detailed PCP-only advisor for clause-based PR-to-PO guidance and next steps."
+  },
+  "name": "gpt-27a68ff0abc03dc442c71163dd61c9cc",
+  "skills": "./skills/",
+  "version": "0.2.1+bundle.250db74b479aa4b3f202cbd9e052e5b9"
+}

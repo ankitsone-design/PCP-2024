@@ -1,0 +1,5 @@
+interface:
+  default_prompt: What does the PCP say I should do after a PR is approved?
+  display_name: PCP Buyer Guide
+  short_description: Detailed PCP-only advisor for clause-based PR-to-PO guidance
+    and

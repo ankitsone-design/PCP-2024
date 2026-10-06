@@ -1,0 +1,21 @@
+{
+  "name": "pcp-buyer-guide",
+  "interface": {
+    "displayName": "PCP Buyer Guide"
+  },
+  "plugins": [
+    {
+      "name": "pcp-buyer-guide",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ankitsone-design/PCP-2024.git",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
