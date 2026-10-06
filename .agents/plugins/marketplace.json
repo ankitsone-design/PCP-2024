@@ -9,7 +9,7 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/ankitsone-design/PCP-2024.git",
-        "path": "."
+        "path": "./"
       },
       "policy": {
         "installation": "AVAILABLE",
